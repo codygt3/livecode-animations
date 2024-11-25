@@ -1,0 +1,26 @@
+#main-title {
+    color: red;
+    font-size: 24px;
+}
+
+body {
+    background-color: white;
+}
+
+#description {
+    font-style: italic;
+}
+
+#pizza-list {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pizza {
+    color: green;
+}
+
+.pizza-img {
+    width: 100px;
+}
